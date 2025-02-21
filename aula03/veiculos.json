@@ -1,0 +1,122 @@
+[
+  {
+    "marca": "Chevrolet",
+    "modelo": "Onix",
+    "cor": "Branco",
+    "ano": 2020
+  },
+  {
+    "marca": "Fiat",
+    "modelo": "Argo",
+    "cor": "Prata",
+    "ano": 2019
+  },
+  {
+    "marca": "Volkswagen",
+    "modelo": "Gol",
+    "cor": "Preto",
+    "ano": 2018
+  },
+  {
+    "marca": "Ford",
+    "modelo": "Ka",
+    "cor": "Vermelho",
+    "ano": 2021
+  },
+  {
+    "marca": "Hyundai",
+    "modelo": "HB20",
+    "cor": "Azul",
+    "ano": 2020
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "cor": "Branco",
+    "ano": 2019
+  },
+  {
+    "marca": "Honda",
+    "modelo": "Civic",
+    "cor": "Prata",
+    "ano": 2018
+  },
+  {
+    "marca": "Renault",
+    "modelo": "Kwid",
+    "cor": "Laranja",
+    "ano": 2021
+  },
+  {
+    "marca": "Nissan",
+    "modelo": "Kicks",
+    "cor": "Cinza",
+    "ano": 2020
+  },
+  {
+    "marca": "Jeep",
+    "modelo": "Renegade",
+    "cor": "Verde",
+    "ano": 2019
+  },
+  {
+    "marca": "Chevrolet",
+    "modelo": "Tracker",
+    "cor": "Preto",
+    "ano": 2018
+  },
+  {
+    "marca": "Fiat",
+    "modelo": "Mobi",
+    "cor": "Branco",
+    "ano": 2021
+  },
+  {
+    "marca": "Volkswagen",
+    "modelo": "Polo",
+    "cor": "Azul",
+    "ano": 2020
+  },
+  {
+    "marca": "Ford",
+    "modelo": "EcoSport",
+    "cor": "Prata",
+    "ano": 2019
+  },
+  {
+    "marca": "Hyundai",
+    "modelo": "Creta",
+    "cor": "Vermelho",
+    "ano": 2018
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "Yaris",
+    "cor": "Cinza",
+    "ano": 2021
+  },
+  {
+    "marca": "Honda",
+    "modelo": "Fit",
+    "cor": "Preto",
+    "ano": 2020
+  },
+  {
+    "marca": "Renault",
+    "modelo": "Duster",
+    "cor": "Branco",
+    "ano": 2019
+  },
+  {
+    "marca": "Nissan",
+    "modelo": "Versa",
+    "cor": "Prata",
+    "ano": 2018
+  },
+  {
+    "marca": "Jeep",
+    "modelo": "Compass",
+    "cor": "Vermelho",
+    "ano": 2021
+  }
+]
